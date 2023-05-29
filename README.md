@@ -1,5 +1,12 @@
-# Optimizing-Emergency-Medical-service-Response-Time-
-This is a web application that gets user's input location and find the nearest hospital using A* algorithm and also show it visually through graph by networkx library
+# Optimizing Emergency Medical Service Response Time
+This is a web application that gets user's input location and find the nearest hospital using A* algorithm and also show it visually through graph by networkx library. The main features of our project include:
+
+1. Welcome through voice at the start of the app
+2. Finding the shortest path to the nearest hospital
+3. View location on google maps
+4. Visualization by showing graphs
+5. Visualization by highlighting the shortest path on the graph
+
 
 **Front page:**
 
